@@ -1,0 +1,2 @@
+Train : train_landmarks_model.py
+Run : asl_live_sentance.py -- press start webcam
