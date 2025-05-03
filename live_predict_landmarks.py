@@ -4,7 +4,7 @@ import numpy as np
 from tensorflow.keras.models import load_model
 from sklearn.preprocessing import LabelEncoder
 
-# Load your trained model
+# Load trained model
 model = load_model('best_landmarks_model.keras')
 
 # Load label encoder (rebuild it manually)
